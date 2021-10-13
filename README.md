@@ -1,10 +1,10 @@
-✌ Olá, me chamo Matheus Peres
-💻 Desenvolvedor Front-End
-🍎Em constante aprendizado
+-✌ Olá, me chamo Matheus Peres
+-💻 Desenvolvedor Front-End
+-🍎Em constante aprendizado
 <hr>
-✌ Olá, me chamo Matheus Peres
-💻 Desenvolvedor Front-End
-🍎Em constante aprendizado
+-✌ Hi, my name is Matheus Peres
+-💻 Developer Front-End
+-🍎in constant learning
 
 <br><br><br>
 
