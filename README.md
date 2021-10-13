@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matnperes
 - 👀 I’m interested in development front-end and mobile
 - 🌱 I’m currently learning 
-- 📫 How to reach me ...
 
 <div> 
   <h2  align="center">📫 Reach me on</h2>
