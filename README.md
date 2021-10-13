@@ -4,6 +4,7 @@
 -💻 Desenvolvedor Front-End <br>
 -🍎Em constante aprendizado
 <hr>
+<h3>EN</h3>
 -✌ Hi, my name is Matheus Peres <br>
 -💻 Developer Front-End <br>
 -🍎in constant learning
