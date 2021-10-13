@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @matnperes
-- 👀 I’m interested in development front-end and mobile
-- 🌱 I’m currently learning 
+✌ Olá, me chamo Matheus Peres
+💻 Desenvolvedor Front-End
+🍎Em constante aprendizado
+<hr>
+✌ Olá, me chamo Matheus Peres
+💻 Desenvolvedor Front-End
+🍎Em constante aprendizado
 
 <br><br><br>
 
