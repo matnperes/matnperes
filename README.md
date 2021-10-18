@@ -12,7 +12,7 @@
 <br><br><br>
 <div align="center">
   <a href="https://github.com/matnperes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matnperes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=FF5555&title_color=8BE9FD"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matnperes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=FF6060&title_color=8BE9FD"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matnperes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8BE9FD&icon_color=FF5555">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matnperes&layout=compact&langs_count=7&theme=dracula&title_color=8BE9FD&">
 </div>
