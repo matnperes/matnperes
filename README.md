@@ -3,11 +3,13 @@
 -✌ Olá, me chamo Matheus Peres<br>
 -💻 Desenvolvedor Front-End <br>
 -🍎Em constante aprendizado <br>
+-🧐 admirador da técnologia
 <hr>
 <h3>EN</h3>
 -✌ Hi, my name is Matheus Peres <br>
 -💻 Developer Front-End <br>
 -🍎in constant learning
+-🧐 technology admirer
 
 <br><br><br>
 <div align="center">
