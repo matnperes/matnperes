@@ -11,6 +11,8 @@
 -🍎in constant learning <br>
 -🧐 technology admirer
 
+<div width=100px height=2px background=#fff><div>
+
 <br><br><br>
 <div align="center">
   <a href="https://github.com/matnperes">
