@@ -8,7 +8,7 @@
 <h3>EN</h3>
 -✌ Hi, my name is Matheus Peres <br>
 -💻 Developer Front-End <br>
--🍎in constant learning
+-🍎in constant learning <br>
 -🧐 technology admirer
 
 <br><br><br>
