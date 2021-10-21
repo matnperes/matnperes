@@ -4,14 +4,12 @@
 -💻 Desenvolvedor Front-End <br>
 -🍎Em constante aprendizado <br>
 -🧐 admirador da técnologia
-<hr background=#ff0>
+<hr>
 <h3>EN</h3>
 -✌ Hi, my name is Matheus Peres <br>
 -💻 Developer Front-End <br>
 -🍎in constant learning <br>
 -🧐 technology admirer
-
-<div width=100px height=2px background=#fff><div>
 
 <br><br><br>
 <div align="center">
