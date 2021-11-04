@@ -1,4 +1,4 @@
-<h3>PT-BR</h3>
+<h3>PT</h3>
 
 -✌ Olá, me chamo Matheus Peres<br>
 -💻 Desenvolvedor Front-End <br>
