@@ -1,13 +1,13 @@
 <h3>PT</h3>
 
 -✌ Olá, me chamo Matheus Peres<br>
--💻 Desenvolvedor Front-End <br>
+-💻 Desenvolvedor JavaScript<br>
 -🍎Em constante aprendizado <br>
 -🧐 admirador da técnologia
 <hr>
 <h3>EN</h3>
 -✌ Hi, my name is Matheus Peres <br>
--💻 Developer Front-End <br>
+-💻 JavaScript Developer <br>
 -🍎in constant learning <br>
 -🧐 technology admirer
 
