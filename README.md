@@ -11,10 +11,7 @@
 -🍎in constant learning <br>
 -🧐 technology admirer
 
-<br><br><br>
-
-
-<br><br>
+<br>
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
